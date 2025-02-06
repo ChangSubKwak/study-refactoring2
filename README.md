@@ -22,5 +22,5 @@
 | 9 | 데이터 조직화 | chapter09.md |
 | 10 | 조건부 로직 간소화 | chapter10.md |
 | 11 | API 리팩터링 | chapter11.md |
-| 12 | 상속 다루기u chapter12.md |
+| 12 | 상속 다루기 | chapter12.md |
 ---
